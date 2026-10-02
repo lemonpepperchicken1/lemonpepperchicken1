@@ -1,5 +1,5 @@
 
-<h3 align="center">a 15 year old bum from the united states who makes passion projects</h3>
+<h3 align="center">Skillset</h3>
 
 <br/>
 
